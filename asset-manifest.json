@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.ac148d2c.chunk.css",
-    "main.js": "/developer-portfolio/static/js/main.031213b8.chunk.js",
-    "main.js.map": "/developer-portfolio/static/js/main.031213b8.chunk.js.map",
+    "main.js": "/developer-portfolio/static/js/main.92542813.chunk.js",
+    "main.js.map": "/developer-portfolio/static/js/main.92542813.chunk.js.map",
     "runtime-main.js": "/developer-portfolio/static/js/runtime-main.9d590205.js",
     "runtime-main.js.map": "/developer-portfolio/static/js/runtime-main.9d590205.js.map",
     "static/css/2.2868d996.chunk.css": "/developer-portfolio/static/css/2.2868d996.chunk.css",
-    "static/js/2.0b3d31f2.chunk.js": "/developer-portfolio/static/js/2.0b3d31f2.chunk.js",
-    "static/js/2.0b3d31f2.chunk.js.map": "/developer-portfolio/static/js/2.0b3d31f2.chunk.js.map",
+    "static/js/2.2a14beed.chunk.js": "/developer-portfolio/static/js/2.2a14beed.chunk.js",
+    "static/js/2.2a14beed.chunk.js.map": "/developer-portfolio/static/js/2.2a14beed.chunk.js.map",
     "static/js/3.17ab71fe.chunk.js": "/developer-portfolio/static/js/3.17ab71fe.chunk.js",
     "static/js/3.17ab71fe.chunk.js.map": "/developer-portfolio/static/js/3.17ab71fe.chunk.js.map",
     "index.html": "/developer-portfolio/index.html",
     "static/css/2.2868d996.chunk.css.map": "/developer-portfolio/static/css/2.2868d996.chunk.css.map",
     "static/css/main.ac148d2c.chunk.css.map": "/developer-portfolio/static/css/main.ac148d2c.chunk.css.map",
-    "static/js/2.0b3d31f2.chunk.js.LICENSE.txt": "/developer-portfolio/static/js/2.0b3d31f2.chunk.js.LICENSE.txt",
+    "static/js/2.2a14beed.chunk.js.LICENSE.txt": "/developer-portfolio/static/js/2.2a14beed.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developer-portfolio/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/developer-portfolio/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/developer-portfolio/static/media/adobeaudition.dd56aeda.svg",
@@ -158,8 +158,8 @@
   "entrypoints": [
     "static/js/runtime-main.9d590205.js",
     "static/css/2.2868d996.chunk.css",
-    "static/js/2.0b3d31f2.chunk.js",
+    "static/js/2.2a14beed.chunk.js",
     "static/css/main.ac148d2c.chunk.css",
-    "static/js/main.031213b8.chunk.js"
+    "static/js/main.92542813.chunk.js"
   ]
 }
